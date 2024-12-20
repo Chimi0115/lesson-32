@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    font-family: impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#container{
+    width: 1000px;
+    height: 550px;
+    background-image: url(music.svg);
+    margin: 20px;
+}
+#Calculator{
+    width: 320px;
+    height: 520px;
+    box-shadow: 9px 9px 9px magenta;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+    border-radius: 15px;
+    background-color: aquamarine;
+}
+#keyboard{
+    height: 400px;
+}
